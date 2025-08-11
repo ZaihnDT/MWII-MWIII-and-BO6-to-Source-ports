@@ -151,11 +151,11 @@
 
 ![Screenshot of ABR A1](assets/gallery/aspen.jpg)
 
-![Screenshot of KSV](assets/gallery/sroger3.jpg)
+![Screenshot of SWAT 5.56](assets/gallery/sgeorge550.jpg)
 
 ![Screenshot of LW3A1 Frostbite](assets/gallery/love96.jpg)
 
-![Screenshot of SWAT 5.56](assets/gallery/sgeorge550.jpg)
+![Screenshot of KSV](assets/gallery/sroger3.jpg)
 
 ![Screenshot of Grekhova](assets/gallery/stiger.jpg)
 
