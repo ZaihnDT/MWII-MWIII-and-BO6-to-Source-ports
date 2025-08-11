@@ -149,6 +149,8 @@
 
 ![Screenshot of Colt 723](assets/gallery/coslo723.jpg)
 
+![Screenshot of ABR A1](assets/gallery/aspen.jpg)
+
 ![Screenshot of KSV](assets/gallery/sroger3.jpg)
 
 ![Screenshot of LW3A1 Frostbite](assets/gallery/love96.jpg)
