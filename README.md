@@ -137,6 +137,8 @@
 
 ![Screenshot of Mk18](assets/gallery/mike18.jpg)
 
+![Screenshot of MX 556](assets/gallery/augpapa.jpg)
+
 ![Screenshot of Holger 556](assets/gallery/golf36.jpg)
 
 ![Screenshot of FR 5.56](assets/gallery/falpha.jpg)
